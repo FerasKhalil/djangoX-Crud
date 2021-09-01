@@ -18,7 +18,13 @@
 {% endblock %}
 </head>
 
-<body>
+<body style="background-color:burlywood ; color: white;">
+  <h3>
+    <a style= "text-decoration: none; background-color: crimson; color:white;" href="{% url 'snack_list' %}"> Snack List</a>
+  </h3>
+  <h3>
+      <a style = "text-decoration: none; color:white; background-color: crimson;" href="{% url 'snack_create' %}">Create New Snack</a>
+  </h3>
   <main role="main">
     <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
       <h5 class="my-0 mr-md-auto font-weight-normal">
