@@ -1,5 +1,12 @@
 > A batteries-included Django starter project. For a production-ready version see the book [Django for Professionals](https://djangoforprofessionals.com).
 
+
+
+
+# Link to pull request:
+(https://github.com/FirasHasan/djangoX-Crud/pull/1)
+
+
 ## 🚀 Features
 
 - Django 3.1 & Python 3.8
